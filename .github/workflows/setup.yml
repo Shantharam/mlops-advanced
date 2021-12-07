@@ -8,7 +8,7 @@ on:
  
 # CONFIGURATION 
 #
-# 1. Set up the following secrets in your repository dd: 
+# 1. Set up the following secrets in your repository dd: sss
 #   AZURE_RESOURCE_GROUP 
 #   STORAGE_ACCOUNT 
 env:
